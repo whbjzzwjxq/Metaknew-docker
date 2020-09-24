@@ -1,0 +1,3 @@
+[submodule "django/backend"]
+	path = django/backend
+	url = https://github.com/whbjzzwjxq/MetaKnew.git
